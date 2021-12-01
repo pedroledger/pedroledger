@@ -14,6 +14,7 @@ I am a curious and proactive person, I seek to combine my knowledge in data tran
   <a href="https://github.com/pedroledger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroledger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroledger&layout=compact&langs_count=5&theme=dark"/>
+  </a>
 </div>
 
 <!-- ícones de linguagens e ferramentas -->
