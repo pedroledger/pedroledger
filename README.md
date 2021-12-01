@@ -1,16 +1,33 @@
-### Hi there 👋
+# Olá, eu sou o Pedro!
 
-<!--
-**pedroledger/pedroledger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência de Dados na PUC-SP | Estagiário na empresa BLEND NEW RESEARCH
 
-Here are some ideas to get you started:
+Sou uma pessoa curiosa e proativa, busco combinar meus conhecimentos em transformação e análise de dados por meio de programação Python, manipulação de banco de dados SQL e visualização de resultados com Excel e PowerBI para contribuir com a Inteligência de Negócios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Data Science Student at PUC-SP | Intern at BLEND NEW RESEARCH
+
+I am a curious and proactive person, I seek to combine my knowledge in data transformation and analysis through Python programming, SQL database manipulation and results visualization with Excel and PowerBI to contribute to Business Intelligence.
+
+<!-- estatísticas -->
+<div align="center">
+  <a href="https://github.com/pedroledger">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroledger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroledger&layout=compact&langs_count=5&theme=dark"/>
+</div>
+
+<!-- ícones de linguagens e ferramentas -->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+  
+##
+<!-- contato -->
+<div>
+  <a href="mailto:pedro.pessoal14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pe-lucas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
