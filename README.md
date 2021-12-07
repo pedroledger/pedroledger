@@ -13,7 +13,7 @@ I am a curious and proactive person, I seek to combine my knowledge in data tran
 <div align="center">
   <a href="https://github.com/pedroledger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroledger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroledger&layout=compact&langs_count=5&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroledger&show_icons=true&langs_count=5&theme=dark"/>
   </a> 
 </div>
 
