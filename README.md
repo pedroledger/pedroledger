@@ -1,11 +1,11 @@
 # Olá, eu sou o Pedro!
 
-Estudante de Ciência de Dados na PUC-SP | Estagiário na empresa BLEND NEW RESEARCH
+Estudante de Ciência de Dados na PUC-SP | 
 
 Sou uma pessoa curiosa e proativa, busco combinar meus conhecimentos em transformação e análise de dados por meio de programação Python, manipulação de banco de dados SQL e visualização de resultados com Excel e PowerBI para contribuir com a Inteligência de Negócios.
 
 
-Data Science Student at PUC-SP | Intern at BLEND NEW RESEARCH
+Data Science Student at PUC-SP | 
 
 I am a curious and proactive person, I seek to combine my knowledge in data transformation and analysis through Python programming, SQL database manipulation and results visualization with Excel and PowerBI to contribute to Business Intelligence.
 
